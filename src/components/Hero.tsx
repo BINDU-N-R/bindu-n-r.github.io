@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 
 const Hero = () => {
@@ -11,7 +10,7 @@ const Hero = () => {
         transition={{ duration: 1.5 }}
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: `url('/bg-pic.jpg')`,
+          backgroundImage: `url('./bg-pic.jpg')`,
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>

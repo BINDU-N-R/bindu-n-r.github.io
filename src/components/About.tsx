@@ -45,7 +45,7 @@ const About = () => {
             className="space-y-6"
           >
             <img 
-            src="/bindu.jpg"
+            src="./bindu.jpg"
             alt="Bindu N R"
             className="w-1/2 h-1/2 object-cover rounded-xl mx-auto my-auto"/>
             {/* <motion.p variants={itemVariants} className="text-lg text-gray-700 leading-relaxed">
