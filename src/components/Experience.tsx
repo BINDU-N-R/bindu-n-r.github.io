@@ -1,4 +1,3 @@
-import React from 'react';
 import { Briefcase, GraduationCap } from 'lucide-react';
 import { motion } from 'framer-motion';
 
@@ -19,7 +18,7 @@ const experiences = [
 
 const education = [
   {
-    title: "Bachelor's in Engineering",
+    title: "Bachelor's of Engineering",
     institution: "Alva's Institute of Engineering and Technology",
     board: 'VTU',
     period: '2017 - 2021'

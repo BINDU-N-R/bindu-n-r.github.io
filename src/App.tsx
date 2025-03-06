@@ -1,9 +1,9 @@
-import Navigation from './components/Navigation';
-import Hero from './components/Hero';
-import About from './components/About';
-import Projects from './components/Projects';
-import Experience from './components/Experience';
-import Contact from './components/Contact';
+import Navigation from './components/Navigation.tsx';
+import Hero from './components/Hero.tsx';
+import About from './components/About.tsx';
+import Projects from './components/Projects.tsx';
+import Experience from './components/Experience.tsx';
+import Contact from './components/Contact.tsx';
 
 function App() {
   return (
